@@ -5,14 +5,6 @@ http://jammy.today:83/live/JFTCherry/39898465/382186.m3u8
 http://jammy.today:83/live/JFTCherry/39898465/382185.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="KIDOS",BKZ&IC CORONA INFO INDO join at  tg://join?invite=Kmqm_VTsRGMjPJYQQzAp-w
 https://media-vidio-com.akamaized.net/uploads/1940112/ets2_high_ETS2d637b7cbea9c1292.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="KIDOS",Coronavirus LIVE MAP 1
-http://jammy.today:83/live/JFTCherry/39898465/382186.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="KIDOS",Coronavirus LIVE MAP 2
-http://jammy.today:83/live/JFTCherry/39898465/382187.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="KIDOS",Coronavirus LIVE MAP 3
-http://jammy.today:83/live/JFTCherry/39898465/382240.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaEoFTW.jpg" group-title="KIDOS",Coronavirus LIVE MAP 4
-http://jammy.today:83/live/JFTCherry/39898465/382368.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="KIDOS",DISNEY JUNIOR INDONESIA
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="KIDOS",Spacetoon
@@ -1045,86 +1037,6 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="NASIONAL INDO1 tv Backup",RTV BACKUP
 https://livetvhooq.akamaized.net/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582769994~exp=9007200837510985~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_2/chunklist.m3u8*~hmac=35e174be3c420b7ed78cac47c9e7fe22c2b5e7b8205a944b5ff453e76667c83b&hdnts=st=1582769998~exp=1582770118~acl=/*~id=9ab06bbf-bc45-4ce0-bef4-56136e5d6cd9~data=114.122.207.199~hmac=9eb24385e05bd887920c8da01abac5215a58c45d9e48024d0eea644dfddd9d5f
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",TRANSTV
-https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582318820~exp=9007200837059811~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_0/chunklist.m3u8*~hmac=b5d481aaa101765c0c268b60987f92bd683b3afb6aeb964e5919a57ad191dc3b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",THE INDONESIA CHANNEL
-https://livetvhooq.akamaized.net/7cc9279e8a0f400aa27052ad2146a774/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582318946~exp=9007200837059937~acl=/7cc9279e8a0f400aa27052ad2146a774/*/profile_2/chunklist.m3u8*~hmac=48cfeadc2c4b1508bc6c39a5992b402251cf11e4aad8fb95c59c854c1350ca0a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",RCTI
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582319166~exp=9007200837060157~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=635025e37aba9724f858255c53d28e8171de5b2254bd0e7ae477b63c7fc4dfc7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",KOMPAS
-https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582319303~exp=9007200837060294~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_0/chunklist.m3u8*~hmac=99a1e8d91e251b731cd940d795d119c249d4ea7c3641c544b0cb19135a0477d3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",TRANS7
-https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582319443~exp=9007200837060434~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=76df72415884b49582868548a3b2a84058fe4261a91d80caf05989170bdd03b8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",GTV
-https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582319556~exp=9007200837060547~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=dfbc193d88672c0793a20fe34727454fec8ba39a0c3d48c05443c36e8c09e62b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",TVONE
-https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582319639~exp=9007200837060630~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=3d07c4fb10213355ca99a498578298e5b6f01bb70c2e7e5cea7b4918761f94a8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582319764~exp=9007200837060755~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=f45abbb56ebae74975f83d5c25507af172414e82c75eb5c4bdb49c6c792434b2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",OUTDOOR CH
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582319909~exp=9007200837060900~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=2f64d5d755fcbe9f1b0f5309e0748975c6e765d54e781be1102b4112891681e8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",ARIARRANG
-https://livetvhooq.akamaized.net/2d3daea33e7849f4bcd48bb6396cbf2b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582320057~exp=9007200837061048~acl=/2d3daea33e7849f4bcd48bb6396cbf2b/*/profile_2/chunklist.m3u8*~hmac=63aa3b933f59f9fa7934ebed23c1c9765b83a7c9a560cc6591081d20991224cf
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",EURONEWS
-https://livetvhooq.akamaized.net/10efd311a8054e2d9b96e39460acfa8b/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582320150~exp=9007200837061141~acl=/10efd311a8054e2d9b96e39460acfa8b/*/profile_2/chunklist.m3u8*~hmac=e6c4cf9433624aa47064bbf5bb04ecc0b316f84e316395a43850f3bd0594ec8c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",MNCTV
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582541587~exp=9007200837282578~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=c589aabf3b00dff2c0144abe2431cb489e5237751d0f50214805253adf5578f0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",MYTV
-https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582320379~exp=9007200837061370~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=ad51d2a9a76fc104cfb3c7dcc3999dd4425e6e153d0c3f6e372b246eeb5233fa
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",JAKTV
-https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582320467~exp=9007200837061458~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=40694a739b44876b183e88e2ba72213c3f66364c6f708a8df5525edb7d244460
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",JTV
-https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582320648~exp=9007200837061639~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=4f388dba1e1be202eacea0173ce30a9c521ea9c1f5ead8f23ac5420fe3a1bda8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",USER FRIME
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582320742~exp=9007200837061733~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=480a6106d79e64a2bcb2e50aec48d786c56a6ea1c2638481cc8f326a45a222dd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",AWESOME
-https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582320874~exp=9007200837061865~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=70d35fe1b537a95b18082941142ecdc36327b2e7b2e1c5a149f4203ef21b6c2f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",NIFTY
-https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582320992~exp=9007200837061983~acl=/1648324ea85b498897752a6385bb5e08/*/profile_2/chunklist.m3u8*~hmac=4487204f7a07431d12a08c86cf3663e0cb7d0b998eda6bdfcf2f177dc326bd1f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",TASTY
-https://livetvhooq.akamaized.net/930b6b972ba74d8f8347361bf59e0200/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582321104~exp=9007200837062095~acl=/930b6b972ba74d8f8347361bf59e0200/*/profile_2/chunklist.m3u8*~hmac=0469493e453240b0915105fe331b974bd63a84f461a3c5425563806d74fc339c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",B MUSIC CONSER
-https://livetvhooq.akamaized.net/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582321237~exp=9007200837062228~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_2/chunklist.m3u8*~hmac=0144c023b3dd8be7a8cd8385062a223f0c39acb5b19a5e0b28a1fed79d38ea91
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",B MUSIC SESSION
-https://livetvhooq.akamaized.net/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582321348~exp=9007200837062339~acl=/94d7194614e148059bca126206f13321/*/profile_2/chunklist.m3u8*~hmac=d35fb483d2f688e5a2e840d4ce31f5daf958c5703cfb867b7900d9e2cd61011f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",FAIL ARMY
-https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582321464~exp=9007200837062455~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_2/chunklist.m3u8*~hmac=1768b2b06638abec24c0958f0965059c9ee3da77844583f7d519bb4b1b647ddb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",K DRAMA
-https://livetvhooq.akamaized.net/8b4f753fdcc94067bfcd243350f36999/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582321596~exp=9007200837062587~acl=/8b4f753fdcc94067bfcd243350f36999/*/profile_2/chunklist.m3u8*~hmac=8610708dbfcb615cc981a9fd2d78908bb446c2adc8238f77cf4c920624a2fe19
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",BERITA1
-https://livetvhooq.akamaized.net/e23061b584d746ba811292c8e1bc783d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582321822~exp=9007200837062813~acl=/e23061b584d746ba811292c8e1bc783d/*/profile_0/chunklist.m3u8*~hmac=f330a894e3dbb82b53c47464884fc591773a8bd1257bef36e21585926b0d54ca
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",CHANNEL NEWS ASIA
-https://livetvhooq.akamaized.net/1dc93a7fcc294660a094f2c478de1aaf/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581520270~exp=9007200836261261~acl=/1dc93a7fcc294660a094f2c478de1aaf/*/profile_0/chunklist.m3u8*~hmac=34db32498260cdaa312470bf401aa256c9c6689f8b998c40b55180d0d8584217
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",ALJAZEERA
-https://livetvhooq.akamaized.net/9441d4e7c9db40cba9fb1a3fc986a596/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582323344~exp=9007200837064335~acl=/9441d4e7c9db40cba9fb1a3fc986a596/*/profile_2/chunklist.m3u8*~hmac=e1f2cb154bf6ba1936f41f6518d4013925493a1a7649762d3f5a77979ff9d3a1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",PEOPLE TV
-https://livetvhooq.akamaized.net/4eaf42ab69674747bb29bcec85582fe7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582323562~exp=9007200837064553~acl=/4eaf42ab69674747bb29bcec85582fe7/*/profile_2/chunklist.m3u8*~hmac=11a467422fb990296ccd1b80788c19b2ad8f1b8b70eb3525047d7c718978700b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",JAWAPOSTV
-https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582323651~exp=9007200837064642~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_2/chunklist.m3u8*~hmac=6ca17f47a6a8166cbd18a8e145805b485e24981537bd7dc88eddbdf05759773b
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",DW
-https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582323732~exp=9007200837064723~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=fb61a4399e6534d8d4f4d015f6e7bdd2ae95daab12c97871e49856fbbb343f42
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",THEPEET COLLECTIVE
-https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582323827~exp=9007200837064818~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=0392557f231e01c9eb17a9cf7d8f2950fce4dd1dfc1ee538b0a244bda2394207
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",ENTERTAIMENT
-https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582323954~exp=9007200837064945~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=25af346404dda71dc4f89fb8330c25070b6de7d246b160fb5f125eb550f38e34
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",RUANG TRAMPIL
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324097~exp=9007200837065088~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=29f0255a910f0f83f379d069c814cd4934e7bd84046179c88abe3ca73f615599
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",IDKU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324212~exp=9007200837065203~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=ad2be7cf388f8ffc4a3a5a8da2e9cf7db3c9c61713c93b3b8c65096d711df490
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",HOOQ COOKING LIGHT
-https://livetvhooq.akamaized.net/afbbb0112e144da19be3d13c5d9b2f96/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324321~exp=9007200837065312~acl=/afbbb0112e144da19be3d13c5d9b2f96/*/profile_2/chunklist.m3u8*~hmac=a3bc3323acb078fb23cf19ca26c2fc3325bda0ee8bc60e6d35f0d0347c51448c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",DAAI TV
-https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324444~exp=9007200837065435~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=e2a93f5f062677abaacd507a15364a69e050f44c852814c134b38eef7aac535e
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",USEE PHOTO
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324605~exp=9007200837065596~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=a273c06ff9400507d74f04a1073b0769193b239417b77323d934e5011cc7eb89
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",HOOQ POOD & WINE
-https://livetvhooq.akamaized.net/8885db27fa464a4d9eb6098d120629b5/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324702~exp=9007200837065693~acl=/8885db27fa464a4d9eb6098d120629b5/*/profile_2/chunklist.m3u8*~hmac=0d53145a567d5250b188026b8afe9ad66b04b242408e86e7870f33a77091b75c
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",SPORTS Tv ILUSTRATED
-https://livetvhooq.akamaized.net/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582324828~exp=9007200837065819~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_2/chunklist.m3u8*~hmac=c9cb940fdf408b4830f3ac122c6f068e7816320bda61a12d720b4f88b8b090f7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",NET TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="HOOQ tv",PRAMBORS
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="KNOWLEDGE",NAT PEOPLE
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
@@ -1148,8 +1060,6 @@ http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="MANDARIN 24/7",Mandarin Movies Tv 7
 http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg"  group-title="News",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -6590,16 +6500,3 @@ http://nitro.ltd:25461/Max30/WQEyZd5Ilf/41419
 http://nitro.ltd:25461/Max30/WQEyZd5Ilf/28758
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",24/7: Lakers Vs Raptors 2006
 http://nitro.ltd:25461/Max30/WQEyZd5Ilf/42554
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",DE | Corona Virus Stats
-http://jammy.today:83/live/JFTCherry/39898465/382186.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",Coronavirus LIVE MAP 1
-http://jammy.today:83/live/JFTCherry/39898465/382186.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",Coronavirus LIVE MAP 2
-http://jammy.today:83/live/JFTCherry/39898465/382185.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",Coronavirus LIVE MAP 3
-http://jammy.today:83/live/JFTCherry/39898465/382187.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",Coronavirus LIVE MAP 4
-http://jammy.today:83/live/JFTCherry/39898465/382240.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRyLt2s.jpg"  group-title="MOVIES 24/7 plus",Coronavirus LIVE MAP 5
-http://jammy.today:83/live/JFTCherry/39898465/382368.m3u8
