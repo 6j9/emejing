@@ -23,6 +23,8 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 http://kemana.pandawa.live/stream/7.ts?token=msQEPu2ZZ7&v=20200518
 #EXTINF:-1  tvg-logo="https://i.imgur.com/m7dgYjL.jpg" group-title="BKZ&IC TV",GTV
 https://raw.githubusercontent.com/burhansyam/iptv/master/ch/globaltv.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/m7dgYjL.jpg" group-title="BKZ&IC TV",GTV+
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/m7dgYjL.jpg" group-title="BKZ&IC TV",Indosiar
 http://kemana.pandawa.live/stream/3.ts?token=msQEPu2ZZ7&v=20200518
 #EXTINF:0 tvg-logo="https://i.imgur.com/m7dgYjL.jpg" group-title="BKZ&IC TV",INDOSIAR HD
